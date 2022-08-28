@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+img{
+   max-width: 150px;
+   max-height: 150px;
+}
+
+.task{
+    display: flex;
+    justify-content: center;
+    margin-top: 225px;
+}
+
+body{
+    background-size: cover;
+}
